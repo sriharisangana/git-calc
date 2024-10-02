@@ -1,0 +1,19 @@
+h1{
+    border: 2px;
+    padding: 4px;
+    margin: 2px;
+    background-color: brown;
+    color: aqua;
+
+}
+#ss{
+    color: blueviolet;
+    background-color: aliceblue;
+}
+h2.name{
+    color: red;
+    background-color: blue;
+}
+*{
+    background-color: pink;
+}
